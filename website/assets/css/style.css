@@ -1,11 +1,28 @@
-
-
-
-footer{
-    background-color: #bdd4dc;
+.fondo-tagline {
+    background-image: url('https://i.ibb.co/q3MwbYSD/bg.jpg');
+    background-position: center;
+    height: 40vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
-a {
-    color: brown;
+.bi-list {
+    color: #fff;
 }
 
+.text1-portfolio {
+    font-size: 1.1rem;
+}
+
+.title-portfolio {
+    color: rgb(66, 131, 192);
+}
+
+.text-portfolio {
+    font-size: 0.9rem;
+}
+
+.btn-form-contact {
+    width: fit-content;
+}
